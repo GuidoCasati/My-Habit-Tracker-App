@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Habit Tracker App</string>
+    <string name="header">My habits:</string>
+</resources>
